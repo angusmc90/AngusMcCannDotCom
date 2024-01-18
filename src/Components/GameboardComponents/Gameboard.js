@@ -40,6 +40,7 @@ function Gameboard() {
   //   console.log(solution);
   //   return solution;
   // };
+  //
   // const winArr = setSolution();
 
   const colorsList = ["orange", "red", "green", "lightblue", "navy", "purple"];
