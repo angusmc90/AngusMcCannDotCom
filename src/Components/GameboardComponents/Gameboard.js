@@ -30,7 +30,9 @@ function Gameboard() {
     }
   }, []);
 
+  // ---------
   // first attempt at randomizing:
+  // 
   // const setSolution = () => {
   //   let solution = [];
   //   while (solution.length < 4) {
@@ -42,6 +44,7 @@ function Gameboard() {
   // };
   //
   // const winArr = setSolution();
+  // -----------
 
   const colorsList = ["orange", "red", "green", "lightblue", "navy", "purple"];
 
